@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CalendarApp</string>
+    <string name="IzaberiTip">Izaberite tip pregleda:</string>
+    <string name="Godina">Godina</string>
+    <string name="dodaj">Dodaj</string>
+    <string name="Mesec">Mesec</string>
+    <string name="Dan">Dan</string>
+    <string name="god">2020</string>
+    <string name="Januar">Januar</string>
+    <string name="Februar">Februar</string>
+    <string name="Mart">Mart</string>
+    <string name="April">April</string>
+    <string name="Maj">Maj</string>
+    <string name="Jun">Jun</string>
+    <string name="Jul">Jul</string>
+    <string name="Avgust">Avgust</string>
+    <string name="Septembar">Septembar</string>
+    <string name="Oktobar">Oktobar</string>
+    <string name="Novembar">Novembar</string>
+    <string name="Decembar">Decembar</string>
+    <string name="error_empty_input" />
+
+</resources>
